@@ -1,0 +1,42 @@
+html, body {
+  height: 100%;
+  background-color: #001d75 ;
+  color: white;
+  width: 100%;
+}
+ol{
+  list-style-type: none;
+  font-size: 20px;
+  font-weight: 700;
+}
+.aaa{
+  background-color: #000000;
+  color: #ffffff;
+  width: 200px;
+  padding: 20 px;
+  margin: 2px;
+  border: 10px solid #454545;
+}
+.aaa:hover{
+  cursor:pointer;
+  font-size: 50px;
+  transition: all 1s;
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Sono:wght@200;700&display=swap');
+p {
+  font-family: 'Sono', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;500&family=Sono:wght@200;700&display=swap');
+p1 {font-family: 'Oswald', sans-serif;}
+@import url('https://fonts.googleapis.com/css2?family=Marhey:wght@300&family=Oswald:wght@200;500&family=Sono:wght@200;700&display=swap');
+p2 {
+  font-family: 'Marhey', cursive;
+{
+  background-color: black;
+}
